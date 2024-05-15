@@ -1,0 +1,26 @@
+{    
+  "0": {
+    "barcode_value":0,
+    "model_name" : "base",
+    "model_url":"#",
+    "position":{"x":0,"y":0,"z":0},
+    "rotation":{"x":-90,"y":0,"z":0},
+    "color":"#795558",
+    "width":19,
+    "height":15
+  },
+  
+  "1": {
+    "barcode_value":1,
+    "model_name" : "road",
+    "model_url":"",
+    "position":{"x":0,"y":-2.2,"z":0},
+    "rotation":{"x":0,"y":-90,"z":0}, 
+    "scale"  : {"x":3,"y":3,"z":3},
+    "placement_position":{"x":1.22957,"y":-2.2,"z":5.7},
+    "placement_rotation":{"x":0,"y":-90,"z":0},
+    "placement_scale":{"x":3,"y":3,"z":3}
+  }
+  
+}
+
